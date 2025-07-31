@@ -10,10 +10,10 @@ Most recently, I was working as an undergrad researcher with an interdisciplinar
 ---
 
  ### 🤖 Tech Stack:
-- Languages: Python, JavaScript, Java
-- Data Science: Pandas, Numpy, scikit-learn, matplotlib, PyTorch, Keras
-- Web Dev: HTML, CSS, React.js, Supabase, APIs
-- Tools: Git, VS Code, Jupyter Notebooks, CLI
+- **Languages**: Python, JavaScript, Java
+- **Data Science**: Pandas, Numpy, scikit-learn, matplotlib, PyTorch, Keras
+- **Web Dev**: HTML, CSS, React.js, Supabase, APIs
+- **Tools**: Git, VS Code, Jupyter Notebooks, CLI
 
 **Currently Learning:** Flask (Backend Programming), Databases, Deep Learning
 
