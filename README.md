@@ -27,7 +27,7 @@ Most recently, I was working as an undergrad researcher with an interdisciplinar
 
 #### 2. [InfraHub - A Site for Construction Enthusiasts](https://github.com/aadib2/Infrahub-Forum-Site)
 
-- Developed / deployed full stack forum website for construction enthusiasts to discuss global infrastrure/architecture projects
+- Developed / deployed full stack forum website for construction enthusiasts to discuss global infrastructure/architecture projects
 - *Tech Stack*: React.js, CSS, Supabase
 - *Learnings*: Frontend Development, User Authentication, CRUD operations
 
