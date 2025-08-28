@@ -1,11 +1,9 @@
 ## Hi there 👋 I'm Aadi!
-### 🎓 **Rising Junior** at **San Diego State University**, studying Computer Science with minor in Math
-
-### 👨🏻‍💻 **Aspiring ML / AI Engineer** | Passionate about Scientific Research, STEM Education, & Sustainability
+### 🎓 Junior Computer Science Major @ San Diego State University | Undergraduate Researcher & AI Enthusiast | Aspiring ML/AI Engineer and Data Scientist
 
 I am a curious, detail-oriented problem solver and collaborator who is passionate about applying data science, machine learning, and software development to tackle real-world challenges. I enjoy collaborating on interdisciplinary teams and continuously growing through hands-on learning, research, and leadership experiences. I'm looking to leverage my knowledge and skills in a Summer 2026 internship where I can contribute to exciting and impactful real-world projects and grow and learn alongside industry and research professionals.
 
-Most recently, I was working as an undergrad researcher with an interdisciplinary team of undergrads in the SDSU Department of Astronomy where our team applied data science and ML techniques to astronomical data collected by the Vera Rubin Observatory in order to aid in scientific discovery and analysis of pulsating variable stars. I am also an incoming undergrad research assistant with the SDSU AI4Business Lab and [Break Through Tech](https://www.breakthroughtech.org/) Fellow.
+Most recently, I was working as an undergrad researcher with an interdisciplinary team of undergrads in the SDSU Department of Astronomy where our team applied data science and ML techniques to astronomical data collected by the Vera Rubin Observatory in order to aid in scientific discovery and analysis of pulsating variable stars. Currently, I am an research assistant with the SDSU AI4Business Lab and [Break Through Tech](https://www.breakthroughtech.org/) Fellow.
 
 ---
 
@@ -13,9 +11,9 @@ Most recently, I was working as an undergrad researcher with an interdisciplinar
 - **Languages**: Python, JavaScript, Java
 - **Data Science**: Pandas, Numpy, scikit-learn, matplotlib, PyTorch, Keras
 - **Web Dev**: HTML, CSS, React.js, Supabase, APIs
-- **Tools**: Git, VS Code, Jupyter Notebooks, CLI
+- **Tools**: Git, VS Code, Copilot, Jupyter, CLI
 
-**Currently Learning:** Flask (Backend Programming), Databases, Deep Learning
+**Currently Learning:** Flask (Backend Programming), Deep Learning, Synthetic Data Gen
 
 ---
 
@@ -24,6 +22,11 @@ Most recently, I was working as an undergrad researcher with an interdisciplinar
 - Trained a CNN to classify galaxy morphologies with 86% accuracy, deployed via Streamlit
 - *Tech Stack*: PyTorch, scikit-learn, Streamlit
 - *Learnings*: Machine and Deep Learning, Python workflow, data visualization
+
+#### 2. [IMDB Sentiment Analysis](https://github.com/aadib2/movie-review-sentiment-analyzer)
+- Implemented sentiment analysis pipeline leveraging NLP and ML techniques, SHAP visualizations for explainable AI
+- *Tech Stack*: Python, nltk, scikit-learn, SHAP, Streamlit
+- *Learnings*: ML workflows, NLP, data visualization
 
 #### 2. [InfraHub - A Site for Construction Enthusiasts](https://github.com/aadib2/Infrahub-Forum-Site)
 
