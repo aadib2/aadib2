@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Aadi!
-### 🎓 Junior Computer Science Major @ San Diego State University | Undergraduate Researcher & AI Enthusiast | Aspiring ML/AI Engineer and Data Scientist
+### 🎓 Junior CS Major @ San Diego State University | Undergraduate Researcher & AI Enthusiast | Aspiring ML/AI Engineer and Data Scientist
 
 I am a curious, detail-oriented problem solver and collaborator who is passionate about applying data science, machine learning, and software development to tackle real-world challenges. I enjoy collaborating on interdisciplinary teams and continuously growing through hands-on learning, research, and leadership experiences. I'm looking to leverage my knowledge and skills in a Summer 2026 internship where I can contribute to exciting and impactful real-world projects and grow and learn alongside industry and research professionals.
 
-Most recently, I was working as an undergrad researcher with an interdisciplinary team of undergrads in the SDSU Department of Astronomy where our team applied data science and ML techniques to astronomical data collected by the Vera Rubin Observatory in order to aid in scientific discovery and analysis of pulsating variable stars. Currently, I am an research assistant with the SDSU AI4Business Lab and [Break Through Tech](https://www.breakthroughtech.org/) Fellow.
+Most recently, I was working as an undergrad researcher in the SDSU Department of Astronomy where our team applied data science and ML techniques to astronomical data collected by the Vera Rubin Observatory in order to aid in scientific discovery and analysis of pulsating variable stars. Currently, I am an research assistant with the SDSU AI4Business Lab and [Break Through Tech](https://www.breakthroughtech.org/) Fellow, working with [Anote](https://anote.ai/) on synthetic data gen for computer vision.
 
 ---
 
