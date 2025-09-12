@@ -28,7 +28,7 @@ Most recently, I was working as an undergrad researcher in the SDSU Department o
 - *Tech Stack*: Python, nltk, scikit-learn, SHAP, Streamlit
 - *Learnings*: ML workflows, NLP, data visualization
 
-#### 2. [InfraHub - A Site for Construction Enthusiasts](https://github.com/aadib2/Infrahub-Forum-Site)
+#### 3. [InfraHub - A Site for Construction Enthusiasts](https://github.com/aadib2/Infrahub-Forum-Site)
 
 - Developed / deployed full stack forum website for construction enthusiasts to discuss global infrastructure/architecture projects
 - *Tech Stack*: React.js, CSS, Supabase
