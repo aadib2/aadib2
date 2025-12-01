@@ -11,6 +11,15 @@ Most recently, I was working as an undergrad researcher in the SDSU Department o
 
 ---
 
+### 🎯 Featured Project: [Synthetic Image Gen for Anote](https://github.com/anote-ai/btt-anote2a)
+- **What We Did**: Researched and implemented synthetic image generation pipeline for computer vision models using both diffusion models (OpenAI API) and the BlenderProc SDK in combination with image processing tools like cv2 and pycocotools
+- **Tools:** Python, Flask, React.js (UI), OpenAI API, blenderproc, ultralytics, pymongo + boto3 (image storage)
+- **Result:** 80%+ reduction in manual annotation time, customizable parameters (e.g. number images, background, lighting, scenes), COCO + YOLO exportable formats, provided insights and informed business decisions for Anote SyntheticDataGen SDK & API
+
+➡️ Check out the complete project here! (coming soon)
+
+---
+
  ### 🤖 Tech Stack:
 - **Programming Languages**: [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 - **Data Science Libraries**: [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#) 	[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#) [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#) [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#), [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
@@ -44,7 +53,7 @@ A few cool projects I have or am currently working on:
 
 ## 📊 Github Stats:
 
-[![Aadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadib2)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aadib2&theme=dark)](https://git.io/streak-stats)
 
 ---
 
