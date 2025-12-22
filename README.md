@@ -48,7 +48,6 @@ A few cool projects I have or am currently working on:
 - **Fellow**, Break Through Tech AI Program (2025 Cohort)
 - **Chief Techical Officer**, SDSU Artificial Intelligence Club (2025–2026)
 - **VP of Community Service**, SDSU College of Sciences Council (2025–2026)
-- **Professional Dev Coordinator**, SASE SDSU (2025–2026)
 - **College of Sciences Representative**, SDSU Associated Students (2024–2025)
 
 ## 📊 Github Stats:
