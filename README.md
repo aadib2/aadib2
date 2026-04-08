@@ -1,17 +1,23 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome!+👋+I'm+Aadi!)](https://git.io/typing-svg)
- **`📕 AI Fellow @ Break Through Tech`<br/>**
- **`💻 Aspiring ML/AI Engineer and Software Developer`**
+ `💻 ML • Data Systems • Applied AI`
 
 [![Portfolio](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/aadi-bery/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Site-green?style=for-the-badge)](https://aadib2.github.io/)
 
-I'm Aadi — a CS & Math student who enjoys working with messy data and open-ended problems that bring value and drive impact. I love collaborating on interdisciplinary teams and continuously growing through hands-on learning, research, and leadership experiences. My interests sit at the intersection of software engineering, machine learning, and applied data science.
+I’m Aadi, a CS & Math student at SDSU interested in building systems that make sense and utility of messy, real-world data.
+My work sits at the intersection of software engineering, machine learning, and applied data science, with a focus on open-ended problems and social impact.
 
-Previously, I was working on applying data science and ML techniques in an academic research setting to astronomical datasets collected by the Vera Rubin Observatory, assisting with scientific discovery and analysis of pulsating variable stars and supporting a greater understanding of Milky Way evolution. Currently, I'm a [Break Through Tech](https://www.breakthroughtech.org/) Fellow, where, most recently, through our *AI Studio* project, my team worked with [Anote](https://anote.ai/) on synthetic data generation for computer vision tasks.
+Previously, I worked with astronomical datasets from the Vera Rubin Observatory, applying ML to study variable stars and contribute to our understanding of the Milky Way.
+I’m currently an AI Fellow with Break Through Tech, where I collaborated with [Anote](https://anote.ai/) on synthetic data for computer vision.
 
-**💭 Currently Learning:** SQL & Databases, Backend Development, LLMs + RAG
+👉 Check out my portfolio above!
 
 ---
+
+## 🚀 Currently
+- AI Fellow @ Break Through Tech  
+- Research Assistant @ SDSU AI4Business Lab
+- Building projects in applied ML & LLMs
 
  ### 🤖 Skills:
 - **Programming Languages**: [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
@@ -30,12 +36,6 @@ Previously, I was working on applying data science and ML techniques in an acade
 | <img src="https://github.com/aadib2/movie-review-sentiment-analyzer/blob/main/visualizations/tn-prediction.png?raw=true" width="100%"/><br/> **🎬 IMDB Sentiment Analysis**<br/> [Repo](https://github.com/aadib2/movie-review-sentiment-analyzer) | End-to-end NLP pipeline for movie review sentiment classification with model explainability using SHAP. Includes interactive visualizations for understanding predictions. | Python · NLTK · scikit-learn · SHAP · Streamlit | NLP · ML Pipelines · Interpretability |
 
 ---
-
-### 💡 Leadership and Extracurriculars:
-- **Fellow**, Break Through Tech AI Program (2025 Cohort)
-- **Chief Techical Officer**, SDSU Artificial Intelligence Club (2025–2026)
-- **VP of Community Service**, SDSU College of Sciences Council (2025–2026)
-- **College of Sciences Representative**, SDSU Associated Students (2024–2025)
 
 ## 📊 Github Stats:
 
