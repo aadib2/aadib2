@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/aadi-bery/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" />
   </a>
-  <a href="https://aadib2.github.io/">
+  <a href="https://aadib-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Site-green?style=for-the-badge" />
   </a>
 </p>
