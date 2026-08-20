@@ -10,21 +10,21 @@
 </p>
 
 <p align="center"> I’m Aadi, a CS & Math student at SDSU interested in building systems that make sense and the utility of messy, real-world data.
-My work sits at the intersection of machine learning (ML), software engineering (SWE), and applied data science, with a focus on open-ended problems and social impact. </p>
-
-<p align="center"> I’m currently an AI Fellow with <a href="https://www.breakthroughtech.org/programs/the-ai-program/"> Break Through Tech </a>, where I've collaborated with <a href="https://anote.ai/"> Anote.ai </a> on synthetic data for computer vision, and the CTO for the <a href="https://www.linkedin.com/company/sdsu-ai-club/"> SDSU AI Club </a>. </p>
+My work sits at the intersection of machine learning (ML), software engineering (SWE), and applied data science, with a passion for open-ended problems and social impact in tech. </p>
 
 <p align="center">👉 Check out my portfolio above!</p>
-
 
 ---
 
 ## 🚀 Currently
-- AI Fellow @ Break Through Tech  
+- President @ SDSU AI Club
 - Research Assistant @ SDSU AI4Business Lab
-- CTO @ SDSU AI Club
-- Building projects in applied ML & LLMs
+- Building projects in applied ML, LLMs, and Agentic AI
 
+## ⏲️Formerly
+- AI Fellow @ [Break Through Tech](https://www.breakthroughtech.org/programs/the-ai-program/)
+- AI/ML Automation Intern @ NXP Semiconductors
+- CTO @ [SDSU AI Club](https://www.linkedin.com/company/sdsu-ai-club)
 ---
 
 ## 📊 Github Stats:
